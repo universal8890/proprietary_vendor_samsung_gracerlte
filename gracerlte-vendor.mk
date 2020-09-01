@@ -30,29 +30,21 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffff000000000000000000000017.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffff000000000000000000000017.tlbin \
     vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffff000000000000000000000019.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffff000000000000000000000019.tlbin \
     vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffff00000000000000000000003e.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffff00000000000000000000003e.tlbin \
-    vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffff000000000000000000000042.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffff000000000000000000000042.tlbin \
-    vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffff000000000000000000000045.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffff000000000000000000000045.tlbin \
     vendor/samsung/gracerlte/proprietary/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:$(TARGET_COPY_OUT_SYSTEM)/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/07010000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/07010000000000000000000000000000.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/07060000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/07060000000000000000000000000000.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/08130000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/08130000000000000000000000000000.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/FFFFFFFF000000000000000000000001.drbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/FFFFFFFF000000000000000000000001.drbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000e.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000f.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000012.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000012.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000013.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000013.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000002f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000002f.tlbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000030.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000030.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000038.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000038.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000041.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000041.tlbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000047.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000047.tlbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000060.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000060.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000014.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000014.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000017.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000017.tlbin \
-    vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000001a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000001a.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/gracerlte/proprietary/vendor/bin/mcDriverDaemon:$(TARGET_COPY_OUT_VENDOR)/bin/mcDriverDaemon \
     vendor/samsung/gracerlte/proprietary/vendor/lib/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcClient.so \
